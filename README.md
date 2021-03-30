@@ -31,7 +31,8 @@ class FrontendEngineer:
             Hello my friend, thanks for dropping by! This is {name}, I live in {location}. 
             I work as a {role} and recently I am focusing on {focus} for my personal growth. 
             Till now I've experience in working with {frontend}, keeping {backend} as backend.
-            Even though I've less experience working with databases specially SQL, I managed to master databases like: {database}.
+            Even though I've less experience working with databases specially SQL, 
+            I somehow managed to master some NoSQL databases like: {database}.
             Over the time, I also got familiarized with so many tools including: {tools}.
             Other miscellaneous collection of tools I got under my belt inclues: {misc}.
             I have wide interests, but most of them are {knowledge_base}. 
