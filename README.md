@@ -27,8 +27,12 @@ class FrontendEngineer:
 
     def say_hi(self):
         print(
-            """Hello my friend, thanks for dropping by! This is {name}, I live in {location}. I work as a {role} and recently I am focusing on {focus} for my personal growth. 
-               I have wide interests, but most of them are {knowledge_base}. I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}""".format(
+            """
+            Hello my friend, thanks for dropping by! This is {name}, I live in {location}. 
+            I work as a {role} and recently I am focusing on {focus} for my personal growth. 
+            I have wide interests, but most of them are {knowledge_base}. 
+            I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}
+            """.format(
                 name=self.name,
                 location=self.location,
                 role=self.role,
