@@ -9,7 +9,7 @@ I began with sketching website designs by hand and then got really good at using
 
 Everything took an exciting turn when I became a design engineer at StarryAI, a state-of-the-art AI art generator. The thrill of building something from the ground up was exhilarating. But I didn't stop there. I went on to co-found a startup, immersing myself in the challenges and rewards of entrepreneurship. And now, I'm bringing my passion for coding and design to Vocode, a promising startup in YC's W23 batch.
 
-Up to this point, my focus was on soaking up as much knowledge as possible, setting myself apart in the process. But now, I feel a strong call to give back to the community that has been my backbone. That's the reason behind this blog and why you're here. Feel free to find me on my socials and let's connect.
+Up to this point, my focus was on soaking up as much knowledge as possible, setting myself apart in the process. But now, I feel a strong call to give back to the community that has been my backbone. Feel free to find me on my socials and let's connect.
 
 
 * 🌍  I'm based in Dhaka, Bangladesh
