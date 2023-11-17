@@ -8,7 +8,7 @@
 - 🎓 Dropped out at 15 to follow my tech dreams.
 - 🌐 Went from sketching website designs by hand to mastering Figma & bringing those designs to life with code.
 - 🛠️ Experienced in React, Next.js, TypeScript, TailwindCSS, and more.
-- 🌟 Worked as a design engineer at a leading AI art app starryAI, co-founded a startup, and congributed at a YC W23 company.
+- 🌟 Worked as a design engineer at a leading AI art app - starryAI, co-founded a startup, and contributed to a YC W23 company.
 - 🎯 Passionate about problem-solving and creating impactful tech solutions.
 
 🔭 **Current Focus:**
