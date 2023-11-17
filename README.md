@@ -1,8 +1,26 @@
+
+
 <img src="https://i.ibb.co/S007tgS/blog-og.png" alt="banner that says Taseen Tanvir - designer, indie-hacker & full-stack developer">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
+### Hi there 👋, I'm Taseen!
 
-## Find me around the web 🌎: <a href="https://tanvir.io/"><img align="left" width="150" height="150" src="https://iili.io/JnqUZlV.gif?raw=true" style="margin-right: 4rem;"></a>
-- Learning in public on <a href="https://twitter.com/dopetanvir">Twitter</a> 🐤
-- Sharing experiences on my <a href="https://tanvir.io/blog"> Blog</a> 🏓
-- Keep up with my career journey on <a href="https://www.linkedin.com/in/taseen-tanvir/">LinkedIn</a> 💼
+🚀 **About Me:**
+- 🎓 Dropped out at 15 to follow my tech dreams.
+- 🌐 Went from sketching website designs by hand to mastering Figma & bringing those designs to life with code.
+- 🛠️ Experienced in React, Next.js, TypeScript, TailwindCSS, and more.
+- 🌟 Worked as a design engineer at a leading AI art app starryAI, co-founded a startup, and congributed at a YC W23 company.
+- 🎯 Passionate about problem-solving and creating impactful tech solutions.
+
+🔭 **Current Focus:**
+- 🌱 I'm currently working on exciting projects at [BHuman](https://bhuman.ai/), leveraging my skills in full-stack development.
+- 💡 Exploring new technologies and constantly expanding my knowledge base.
+
+👥 **Community Contribution:**
+- 🤝 I believe in giving back to the community that has been my backbone.
+- 📝 Sharing my journey and learnings on [my blog](https://tanvir.io/).
+
+🔗 **Connect with Me:**
+- 🐦 [Twitter](https://twitter.com/dopetanvir)
+- 💼 [LinkedIn](https://www.linkedin.com/in/taseen-tanvir/)
+
+Let's make something awesome together!
