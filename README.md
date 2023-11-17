@@ -1,6 +1,6 @@
 
 
-<img src="https://i.ibb.co/S007tgS/blog-og.png" alt="banner that says Taseen Tanvir - designer, indie-hacker & full-stack developer">
+<img src="https://raw.githubusercontent.com/T4533N/T4533N/main/github.png" alt="banner that says Taseen Tanvir - designer, indie-hacker & full-stack developer">
 
 ### Hi there 👋, I'm Taseen!
 
