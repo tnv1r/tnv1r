@@ -1,65 +1,41 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taseen Tanvir!
+======================================================================================================================================
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+Designer & Developer
+--------------------
 
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [tanvir.io](http://tanvir.io)
+* ✉️  You can contact me at [hey@tanvir.io](mailto:hey@tanvir.io)
+* 🚀  I'm currently working on [heroform.io](http://heroform.io)
+* 🧠  I'm learning YOLO, Tensorflow, NumPy
+* 🤝  I'm open to collaborating on any techstack
+* ⚡  I love writting on when I'm done working
 
-class FrontendEngineer:
-    def __init__(self):
-        self.name = "Taseen Tanvir"
-        self.location = "27.2046° N, 77.4977° E"
-        self.role = "Frontend Engineer"
-        self.blog = "https://tanvir.io/"
-        self.surfaceweb_portfolio="https://tanvir.io/"
-        self.darkweb_portfolio="http://aq5at63kdmryyjicrbuuda6rqqlbmdj2qjysprkotimvgmeklyl6u2qd.onion"
-        self.mastered = {
-            "frontend": ["React", "Redux", "Next.js", "Vue.js", "HTML", "CSS", "JavaScript", "Chakra UI", "Tailwindcss"],
-            "backend": ["NodeJS"],
-            "database": ["MongoDB", "Firestore"],
-            "tools": ["GIT", "Github", "Gitlab", "Vscode"],
-            "misc": ["GNU/Linux"]
-        }
-        self.knowledge_base = [
-            "Software Enginnering",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-        ]
-        self.knowledge_base.insert(0, "Backend Engineering")
+<a href="https://www.github.com/t4533n" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/t4533n?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a><a href="https://www.x.com/dopetanvir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dopetanvir?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=0f172a"
+/></a><a href="https://www.twitch.tv/dopetanvir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/dopetanvir?logo=twitchsx&style=for-the-badge&color=14b8a6&labelColor=0f172a&label=TWITCH+STATUS" /></a>
 
-    def say_hi(self):
-        print(
-            """
-            Hello my friend, thanks for dropping by! This is {name}, I live in {location}. 
-            I work as a {role} and recently I am focusing on {focus} for my personal growth. 
-            Till now I've experience in working with {frontend}, keeping {backend} as backend.
-            Even though I've less experience working with databases specially SQL, 
-            I somehow managed to master some NoSQL databases like: {database}.
-            Over the time, I got familiarized with so many tools including: {tools}.
-            Other miscellaneous collection of tools that I got under my belt involves {misc}.
-            I also have a wide range of interests, but some of them are {knowledge_base}. 
-            In my free time, I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}.
-            If you wanna know more about me, take a look at my portfolio here: {surfaceweb_portfolio}, 
-            or if you are a dark web person then visit here: {darkweb_portfolio}.
-            """.format(
-                name=self.name,
-                location=self.location,
-                role=self.role,
-                frontend=", ".join(mastered["frontend"])
-                backend=", ".join(mastered["backend"])
-                database=", ".join(mastered["database"])
-                tools=", ".join(mastered["tools"])
-                misc=", ".join(mastered["misc"])
-                focus=self.knowledge_base[0],
-                knowledge_base=", ".join(self.knowledge_base[1:]),
-                blog=self.blog,
-                surfaceweb_portfolio=self.surfaceweb_portfolio,
-                darkweb_portfolio=self.darkweb_portfolio
-            )
-        )
+### Skills
 
 
-me = FrontendEngineer()
-me.say_hi()
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-```
+
+### Socials
+
+<p align="left"> <a href="https://www.behance.com/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/t4533n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://dopetanvir.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/taseen-tanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/dopetanvir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/t4533n"><img src="https://github-readme-stats.vercel.app/api?username=t4533n&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="t4533n's GitHub stats" /></a>
+
+<a href="http://www.github.com/t4533n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=t4533n&stroke=ffffff&background=0f172a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/t4533n" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4533n&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
