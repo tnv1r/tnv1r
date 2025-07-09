@@ -10,7 +10,7 @@ worked at [starryai](https://starryai.com/), [vocode](https://vocode.dev), [pikz
 
 right now, i’m building [inspicado](https://inspicado.com) and picking up new skills along the way.
 
-i like sharing what i learn and giving back—community’s always been a big part of it for me.
+i like sharing what i learn and giving back - community’s always been a big part of it for me.
 
 wanna connect? i’m on [twitter](https://twitter.com/okaytanvir) / [linkedin](https://www.linkedin.com/in/taseen-tanvir/) / [bento](https://bento.me/okaytanvir)
 
